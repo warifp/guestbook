@@ -5,3 +5,5 @@
 - Happy Hacktoberfest! - Miguel
 - Happy Hacking - Vatsal
 - Happy Spooktober from Portugal - João
+- Terry Mafura
+- Happy Hacktoberfest family - Farai Mugaviri
