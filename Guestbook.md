@@ -4,3 +4,4 @@
 - James Dube
 - Happy Hacktoberfest! - Miguel
 - Happy Hacking - Vatsal
+- Happy Spooktober from Portugal - João
