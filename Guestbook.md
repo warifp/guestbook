@@ -4,4 +4,5 @@
 - James Dube
 - Happy Hacktoberfest! - Miguel
 - Happy Hacking - Vatsal
+- Terry Mafura
 - Happy Hacktoberfest family - Farai Mugaviri
