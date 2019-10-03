@@ -1,5 +1,5 @@
-All the best from germany! - Jay
-
-Mike Dupuis
-
-Happy Hacktoberfest! - Miguel
+- All the best from germany! - Jay
+- Mike Dupuis
+- Hi from [Heather](https://github.com/OGHP) in Seattle!
+- James Dube
+- Happy Hacktoberfest! - Miguel
