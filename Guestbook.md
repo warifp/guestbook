@@ -1,3 +1,3 @@
-All the best from germany! - Jay
-
-Mike Dupuis
+- All the best from germany! - Jay
+- Mike Dupuis
+- Hi from [Heather](https://github.com/OGHP) in Seattle!
