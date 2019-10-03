@@ -7,3 +7,4 @@
 - Happy Spooktober from Portugal - João
 - Terry Mafura
 - Happy Hacktoberfest family - Farai Mugaviri
+- Happy Hacktoberfest everyone! - Zara
