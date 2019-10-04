@@ -8,3 +8,4 @@
 - Terry Mafura
 - Happy Hacktoberfest family - Farai Mugaviri
 - Happy Hacktoberfest everyone! - Zara
+- Happy Spooky Szn :) - Christine
